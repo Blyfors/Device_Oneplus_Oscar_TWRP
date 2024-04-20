@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="security">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/recovery/root/system/etc/security/otacerts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/recovery/root/system/etc/security/specialcerts.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
